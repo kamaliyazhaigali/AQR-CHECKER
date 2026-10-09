@@ -7,7 +7,7 @@ Python CLI that shows air quality (AQI) and gives outdoor safety advice for deli
    `pip install requests`
 3. Create a file named `config.py` next to `aqi.py` with one line:
    `TOKEN = "your_token_here"`
-   ## Run
+## Run
 
 `python aqi.py`
 
