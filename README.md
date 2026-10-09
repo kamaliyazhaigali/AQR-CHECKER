@@ -1,4 +1,4 @@
-# AQR-CHECKER
+# AQI-CHECKER
 Python CLI that shows air quality (AQI) and gives outdoor safety advice for delivery riders.Was created to gig workers, to check condition of the air and secure themselves from diseases 
 ## Setup
 
